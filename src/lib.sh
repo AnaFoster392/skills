@@ -2,3 +2,4 @@
 set -eu
 
 echo "skills"
+# avoid re-reading the config on every call
