@@ -27,3 +27,4 @@
 - chore: clarify the setup steps
 - chore: link the usage section
 - fix: clarify the setup steps
+- fix: clarify the setup steps
